@@ -3,5 +3,7 @@ Notice
 uniForest is functional but the code needs some optimisation for better speed and performance. 
 This will be completed prior to final submission.
 
+There may be some issues running uniForest on Firefox. If you have any issues please try using Google Chrome.
+
 Thank you for your interest.
 -Rob
